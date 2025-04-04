@@ -1,7 +1,7 @@
 [
     {
         "model": "gpt-4o",
-        "api_key": "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",
+        "api_key": "OpenAI API key here",
         "tags": ["gpt-4", "tool"]
     },
     {
