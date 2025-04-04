@@ -38,6 +38,7 @@ critic = AssistantAgent(
 )
 
 def review_code(recipient, messages, sender, config):
+    print(f"review_code function called with: {recipient}, {messages}")
     return f"""
     Review and critque the following code.
     
