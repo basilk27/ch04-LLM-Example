@@ -1,7 +1,7 @@
 from autogen import ConversableAgent, UserProxyAgent, config_list_from_json
 
 # load the configuration list from the OAI_CONFIG_LIST file
-config_list = config_list_from_json(env_or_file="OAI_CONFIG_LIST")
+#config_list = config_list_from_json(env_or_file="OAI_CONFIG_LIST")
 
 # create the agent that uses the LLM
 assistant_agent = ConversableAgent(
