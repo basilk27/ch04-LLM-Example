@@ -1,8 +1,8 @@
 [
     {
-        "model": "gpt-4",
-        "api_key": "<your OpenAI API key here>",
-        "tags": ["gpt-4", "tool"]
+        "model": "gpt-4o",
+        "api_key": "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",
+        "tags": ["gpt-4o", "tool"]
     },
     {
         "model": "<your Azure OpenAI deployment name>",
