@@ -1,0 +1,21 @@
+[
+    {
+        "model": "gpt-4o",
+        "api_key": "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",
+        "tags": ["gpt-4", "tool"]
+    },
+    {
+        "model": "<your Azure OpenAI deployment name>",
+        "api_key": "<your Azure OpenAI API key here>",
+        "base_url": "<your Azure OpenAI API base here>",
+        "api_type": "azure",
+        "api_version": "2024-02-15-preview"
+    },
+    {
+        "model": "<your Azure OpenAI deployment name>",
+        "api_key": "<your Azure OpenAI API key here>",
+        "base_url": "<your Azure OpenAI API base here>",
+        "api_type": "azure",
+        "api_version": "2024-02-15-preview"
+    }
+]
