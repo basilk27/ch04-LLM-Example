@@ -1,7 +1,7 @@
 from autogen import UserProxyAgent, config_list_from_json, AssistantAgent
 
 # load the configuration list from the OAI_CONFIG_LIST file
-#???config_list = config_list_from_json(env_or_file="OAI_CONFIG_LIST")
+config_list = config_list_from_json(env_or_file="OAI_CONFIG_LIST")
 
 user_proxy = UserProxyAgent(
     "user",
